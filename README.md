@@ -1,42 +1,45 @@
-# [Seu Nome]  
-### Cientista de Dados | Analista de Dados  
+# Juan Cezar
+### Estudante de Ciência de Dados  
 
 ---
 
 ### 👋 Sobre Mim  
-Sou um(a) cientista de dados com experiência em [áreas de atuação, como machine learning, análise de dados, visualização, etc.].  
-Atualmente, estou focado(a) em [projeto ou área de interesse].  
+Sou um(a) estudante de ciência de dados em busca de constantes aprendizados e desafios.  
+Atualmente, estou focado(a) em desenvolver minhas habilidades em **análise de dados** e **visualização de dados**.  
+Meu objetivo é contribuir para projetos que resolvam problemas reais e impactem positivamente a sociedade.  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas  
+### 🛠️ Tecnologias e Ferramentas que Estou Aprendendo  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ---
 
-### 📂 Projetos Destacados  
-- **[Análise de Dados com Python](https://github.com/seu-usuario/analise-dados-python)**  
-  Descrição breve do projeto e resultados alcançados.  
-
-- **[Previsão de Séries Temporais](https://github.com/seu-usuario/previsao-series-temporais)**  
-  Descrição breve do projeto e tecnologias utilizadas.  
+### 📚 Aprendizado Contínuo  
+- Cursos em andamento:
+- **Ciência de Dados** (Faculdade Técnica de Cotia)
+- **Dashboards Interativos com Python** (plataforma: Asimov Academy)  
+    
+- Leituras:  
+  - *"Python para Análise de Dados"* – Wes McKinney  
+  - *"Data Science do Zero"* – Joel Grus
 
 ---
 
-### 📊 Estatísticas do GitHub  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)  
+### 🎯 Metas para 2025
+- Aprender os fundamentos de machine learning.  
+- Desenvolver projetos práticos para aplicar meus conhecimentos.  
+- Contribuir para a comunidade de ciência de dados.  
 
 ---
 
 ### 📫 Contato  
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil)  
-- E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-- Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  
+- LinkedIn: www.linkedin.com/in/juan-cezar 
+- E-mail: juancezar0520@gmail.com  
 
 ---
 
-🌟 **"Transformando dados em insights."** 🌟  
+🌟 **"A jornada de mil milhas começa com um único passo."** 🌟  
